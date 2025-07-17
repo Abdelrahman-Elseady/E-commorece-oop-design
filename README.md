@@ -1,8 +1,8 @@
-# Fawry-Task
+# E-Commerce
 
 ### Folder hierarchy 
 ```
-fawrytask/
+E-Commerce/
 ├── .idea/
 ├── src/
 │   └── main/
